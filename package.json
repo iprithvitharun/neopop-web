@@ -1,6 +1,6 @@
 {
     "name": "@cred/neopop-web",
-    "version": "1.0.0",
+    "version": "1.22.18",
     "description": "NeoPOP components library by CRED",
     "main": "lib/index.js",
     "module": "lib-esm/index.js",
